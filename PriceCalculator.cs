@@ -1,0 +1,1 @@
+public class PriceCalculator { public double Calc(int count, double price) => count * price; }
